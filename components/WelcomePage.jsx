@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from 'react';
 import { motion, AnimatePresence, useAnimation } from 'framer-motion';
 import GradientOrb from './ui/GradientOrb';
 
-const DURATION = 4200; // Total splash duration ms
+const DURATION = 7200; // Total splash duration ms
 
 const orbs = [
     { color: '#ff375f', size: 600, x: '15%', y: '20%', opacity: 0.4, animation: 'orb-drift', duration: '12s' },
