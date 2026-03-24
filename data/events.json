@@ -1,0 +1,132 @@
+[
+    {
+        "id": "1",
+        "title": "Grand Opening Tournament 2025",
+        "description": "Sportech Sports Academy is proud to host our inaugural multi-sport tournament open to all registered athletes across all three age tiers. Competitions in Soccer, Basketball, Volleyball, and Athletics.",
+        "date": "2025-07-12",
+        "endDate": "2025-07-13",
+        "time": "08:00",
+        "location": "Sportech Sports Complex, Accra",
+        "sport": "Multi-Sport",
+        "category": "Tournament",
+        "status": "upcoming",
+        "capacity": 200,
+        "registered": 87,
+        "fee": "GHS 50",
+        "ageGroups": [
+            "4-9",
+            "10-15",
+            "16-21"
+        ],
+        "image": "/images/events/tournament.jpg",
+        "registrationOpen": true
+    },
+    {
+        "id": "2",
+        "title": "Soccer Skills Bootcamp",
+        "description": "An intensive 3-day soccer skills development camp focusing on dribbling, shooting accuracy, tactical awareness, and goalkeeper training.",
+        "date": "2025-06-20",
+        "endDate": "2025-06-22",
+        "time": "09:00",
+        "location": "Academy Soccer Field",
+        "sport": "Soccer",
+        "category": "Camp",
+        "status": "upcoming",
+        "capacity": 40,
+        "registered": 32,
+        "fee": "GHS 120",
+        "ageGroups": [
+            "10-15",
+            "16-21"
+        ],
+        "image": "/images/events/soccer-camp.jpg",
+        "registrationOpen": true
+    },
+    {
+        "id": "3",
+        "title": "Swimming Gala 2025",
+        "description": "Annual swimming competition featuring individual stroke events and relay races for all age groups. Medals awarded in each category.",
+        "date": "2025-08-02",
+        "endDate": "2025-08-02",
+        "time": "10:00",
+        "location": "Academy Aquatic Center",
+        "sport": "Swimming",
+        "category": "Competition",
+        "status": "upcoming",
+        "capacity": 80,
+        "registered": 45,
+        "fee": "GHS 30",
+        "ageGroups": [
+            "4-9",
+            "10-15",
+            "16-21"
+        ],
+        "image": "/images/events/swimming.jpg",
+        "registrationOpen": true
+    },
+    {
+        "id": "4",
+        "title": "End of Term Awards Ceremony",
+        "description": "Celebrating outstanding athletes, coaches, and staff from the first term. Awards in all sports categories, special recognition for most improved players.",
+        "date": "2025-05-30",
+        "endDate": "2025-05-30",
+        "time": "17:00",
+        "location": "Sportech Main Hall",
+        "sport": "All Sports",
+        "category": "Award Ceremony",
+        "status": "past",
+        "capacity": 300,
+        "registered": 300,
+        "fee": "Free",
+        "ageGroups": [
+            "4-9",
+            "10-15",
+            "16-21"
+        ],
+        "image": "/images/events/awards.jpg",
+        "registrationOpen": false
+    },
+    {
+        "id": "5",
+        "title": "Rugby Sevens Mini League",
+        "description": "A 4-week mini league for our Rugby Sevens players. Teams compete weekly with a grand finale and trophy presentation.",
+        "date": "2025-09-06",
+        "endDate": "2025-09-27",
+        "time": "15:00",
+        "location": "Academy Rugby Ground",
+        "sport": "Rugby Sevens",
+        "category": "Tournament",
+        "status": "upcoming",
+        "capacity": 56,
+        "registered": 20,
+        "fee": "GHS 40",
+        "ageGroups": [
+            "10-15",
+            "16-21"
+        ],
+        "image": "/images/events/rugby.jpg",
+        "registrationOpen": true
+    },
+    {
+        "id": "6",
+        "title": "Dance Showcase & Competition",
+        "description": "An exciting showcase where our dance athletes perform solo and group routines. Open to all styles: contemporary, hip-hop, afrobeats, and cultural dance.",
+        "date": "2025-10-18",
+        "endDate": "2025-10-18",
+        "time": "18:00",
+        "location": "Sportech Performance Hall",
+        "sport": "Dancing",
+        "category": "Competition",
+        "status": "upcoming",
+        "capacity": 150,
+        "registered": 38,
+        "fee": "GHS 20",
+        "ageGroups": [
+            "4-9",
+            "10-15",
+            "16-21"
+        ],
+        "image": "/images/events/dance.jpg",
+        "registrationOpen": true
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "name": "Kofi Asante",
+        "sport": "Soccer",
+        "position": "Forward",
+        "jerseyNumber": 10,
+        "leg": "Right",
+        "ageGroup": "16-21",
+        "photo": "/images/players/player1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Ama Osei",
+        "sport": "Netball",
+        "position": "Goal Shooter",
+        "jerseyNumber": 7,
+        "leg": "Right",
+        "ageGroup": "10-15",
+        "photo": "/images/players/player2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Kwesi Mensah",
+        "sport": "Basketball",
+        "position": "Point Guard",
+        "jerseyNumber": 23,
+        "leg": "Right",
+        "ageGroup": "10-15",
+        "photo": "/images/players/player3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Akua Boateng",
+        "sport": "Swimming",
+        "position": "Freestyle",
+        "jerseyNumber": 3,
+        "leg": "N/A",
+        "ageGroup": "4-9",
+        "photo": "/images/players/player4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Yaw Darko",
+        "sport": "Athletics",
+        "position": "Sprinter (100m)",
+        "jerseyNumber": 1,
+        "leg": "Right",
+        "ageGroup": "16-21",
+        "photo": "/images/players/player5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Efua Owusu",
+        "sport": "Volleyball",
+        "position": "Setter",
+        "jerseyNumber": 12,
+        "leg": "Right",
+        "ageGroup": "10-15",
+        "photo": "/images/players/player6.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Isaac Amo",
+        "sport": "Rugby Sevens",
+        "position": "Fullback",
+        "jerseyNumber": 15,
+        "leg": "Left",
+        "ageGroup": "16-21",
+        "photo": "/images/players/player7.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Adwoa Mensah",
+        "sport": "Dancing",
+        "position": "Contemporary Lead",
+        "jerseyNumber": 5,
+        "leg": "N/A",
+        "ageGroup": "10-15",
+        "photo": "/images/players/player8.jpg"
+    }
+]

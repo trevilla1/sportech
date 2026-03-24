@@ -1,0 +1,148 @@
+[
+    {
+        "id": "1",
+        "name": "Daniel Mensah",
+        "role": "Head Coach",
+        "sport": [
+            "Soccer"
+        ],
+        "bio": "A UEFA-certified head coach with over 12 years of experience developing youth soccer talent. Former professional player and passionate youth developer.",
+        "qualifications": [
+            "UEFA B License",
+            "CAF Coaching Certificate",
+            "First Aid Certified"
+        ],
+        "experience": "12 years",
+        "email": "d.mensah@sportech.com",
+        "phone": "+233 24 XXX XXXX",
+        "image": "/images/staff/coach1.jpg"
+    },
+    {
+        "id": "2",
+        "name": "Abena Owusu",
+        "role": "Head Coach",
+        "sport": [
+            "Netball"
+        ],
+        "bio": "National-level netball coach with extensive experience running youth programs. Passionate about empowering young athletes through sport.",
+        "qualifications": [
+            "Ghana Netball Federation Cert",
+            "Youth Physical Education Degree",
+            "Safeguarding Certificate"
+        ],
+        "experience": "8 years",
+        "email": "a.owusu@sportech.com",
+        "phone": "+233 54 XXX XXXX",
+        "image": "/images/staff/coach2.jpg"
+    },
+    {
+        "id": "3",
+        "name": "Eric Asante",
+        "role": "Head Coach",
+        "sport": [
+            "Volleyball"
+        ],
+        "bio": "Former national volleyball player turned coach. Specializes in youth development and technical skills training.",
+        "qualifications": [
+            "FIVB Level 2 Coaching",
+            "Sports Science Bachelor's Degree",
+            "First Aid Certified"
+        ],
+        "experience": "10 years",
+        "email": "e.asante@sportech.com",
+        "phone": "+233 20 XXX XXXX",
+        "image": "/images/staff/coach3.jpg"
+    },
+    {
+        "id": "4",
+        "name": "Nana Ama Boateng",
+        "role": "Head Coach",
+        "sport": [
+            "Swimming"
+        ],
+        "bio": "Certified swimming coach and former competitive swimmer. Expert in stroke technique, water safety, and competitive training for all skill levels.",
+        "qualifications": [
+            "FINA Level 2 Coaching",
+            "Lifeguard Certification",
+            "Water Safety Instructor"
+        ],
+        "experience": "9 years",
+        "email": "n.boateng@sportech.com",
+        "phone": "+233 27 XXX XXXX",
+        "image": "/images/staff/coach4.jpg"
+    },
+    {
+        "id": "5",
+        "name": "Dr. Kwame Agyei",
+        "role": "Sports Physiotherapist",
+        "sport": [
+            "All Sports"
+        ],
+        "bio": "Sports physiotherapist and injury prevention specialist. Ensures all athletes maintain peak physical health and recover quickly from injuries.",
+        "qualifications": [
+            "PhD Sports Medicine",
+            "Physiotherapy Board License",
+            "Sports Rehabilitation Cert"
+        ],
+        "experience": "15 years",
+        "email": "k.agyei@sportech.com",
+        "phone": "+233 24 XXX XXXX",
+        "image": "/images/staff/physio.jpg"
+    },
+    {
+        "id": "6",
+        "name": "Serwa Antwi",
+        "role": "Head Coach",
+        "sport": [
+            "Gymnastics",
+            "Dancing"
+        ],
+        "bio": "Former national gymnastics team member with extensive experience in artistic movement, flexibility training, and youth performance arts.",
+        "qualifications": [
+            "FIG Gymnastics Coaching Cert",
+            "Dance Performance Degree",
+            "Youth Arts Instructor"
+        ],
+        "experience": "11 years",
+        "email": "s.antwi@sportech.com",
+        "phone": "+233 55 XXX XXXX",
+        "image": "/images/staff/coach5.jpg"
+    },
+    {
+        "id": "7",
+        "name": "Frank Osei",
+        "role": "Head Coach",
+        "sport": [
+            "Basketball",
+            "Futsal"
+        ],
+        "bio": "FIBA-certified basketball coach and futsal specialist. Brings energy, creativity, and tactical expertise to every training session.",
+        "qualifications": [
+            "FIBA Level 2 Coaching",
+            "FIFA Futsal Coaching Cert",
+            "Youth Sports Psychology"
+        ],
+        "experience": "7 years",
+        "email": "f.osei@sportech.com",
+        "phone": "+233 28 XXX XXXX",
+        "image": "/images/staff/coach6.jpg"
+    },
+    {
+        "id": "8",
+        "name": "Grace Mensah",
+        "role": "Nutritionist",
+        "sport": [
+            "All Sports"
+        ],
+        "bio": "Certified sports nutritionist helping all academy athletes optimize their diet for peak performance, recovery, and long-term health.",
+        "qualifications": [
+            "BSc Nutrition & Dietetics",
+            "Sports Nutrition Diploma",
+            "Child Nutrition Specialist"
+        ],
+        "experience": "6 years",
+        "email": "g.mensah@sportech.com",
+        "phone": "+233 24 XXX XXXX",
+        "image": "/images/staff/nutritionist.jpg"
+    }
+]

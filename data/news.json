@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1",
+        "slug": "grand-opening-academy",
+        "title": "Sportech Sports Academy Officially Opens Its Doors",
+        "category": "Academy Announcements",
+        "featured": true,
+        "image": "/images/news/opening.jpg",
+        "date": "2025-01-15",
+        "author": "Sportech Admin",
+        "excerpt": "We are thrilled to announce the official opening of Sportech Sports Academy — a world-class facility dedicated to developing the next generation of sports champions.",
+        "content": "After months of preparation, Sportech Sports Academy officially opened its doors to athletes across all age groups. Our state-of-the-art facilities, certified coaching staff, and comprehensive 11-sport program are now available to the community. We welcome athletes aged 4–21 to join our growing family of champions.",
+        "tags": [
+            "Opening",
+            "Academy",
+            "Announcement"
+        ],
+        "likes": 245,
+        "comments": []
+    },
+    {
+        "id": "2",
+        "slug": "kofi-asante-regional-champion",
+        "title": "Kofi Asante Claims Regional U21 Soccer Trophy",
+        "category": "Player Achievements & Highlights",
+        "featured": true,
+        "image": "/images/news/soccer-win.jpg",
+        "date": "2025-03-22",
+        "author": "Sports Desk",
+        "excerpt": "Sportech's star forward Kofi Asante delivered a stunning hat-trick to lead his regional team to championship glory.",
+        "content": "In a breathtaking final, Sportech Sports Academy forward Kofi Asante scored three goals to secure the Regional U21 Soccer Championship. This achievement reflects the quality of training at our academy and the dedication of both the athlete and our coaching staff.",
+        "tags": [
+            "Soccer",
+            "Achievement",
+            "Championship"
+        ],
+        "likes": 189,
+        "comments": []
+    },
+    {
+        "id": "3",
+        "slug": "holiday-programs-2025",
+        "title": "School Holiday Programs 2025 — Registration Now Open",
+        "category": "Program Updates",
+        "featured": false,
+        "image": "/images/news/holiday-program.jpg",
+        "date": "2025-04-10",
+        "author": "Academy Team",
+        "excerpt": "Our popular School Holiday Intensive Programs are back! Register early to secure your spot across all 11 sports.",
+        "content": "The Sportech Sports Academy is excited to announce our School Holiday Programs for 2025. Running during all major school breaks, these programs offer intensive training across all 11 sports for athletes aged 4–21. Slots are limited — visit our office to register.",
+        "tags": [
+            "Programs",
+            "Registration",
+            "Holidays"
+        ],
+        "likes": 112,
+        "comments": []
+    },
+    {
+        "id": "4",
+        "slug": "new-swim-coach",
+        "title": "Welcome: Coach Nana Ama Boateng Joins Our Team",
+        "category": "Staff News",
+        "featured": false,
+        "image": "/images/news/staff-news.jpg",
+        "date": "2025-02-05",
+        "author": "Sportech Admin",
+        "excerpt": "We are delighted to welcome FINA-certified swimming coach Nana Ama Boateng to the Sportech coaching family.",
+        "content": "Nana Ama Boateng brings 9 years of competitive swimming coaching experience to Sportech. With a FINA Level 2 Coaching certification and a Lifeguard certification, Coach Boateng will lead our rapidly growing swim program.",
+        "tags": [
+            "Staff",
+            "Swimming",
+            "Coach"
+        ],
+        "likes": 78,
+        "comments": []
+    }
+]

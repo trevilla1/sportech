@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "question": "How do I register my child at Sportech Sports Academy?",
+        "answer": "Registration forms must be picked up in person at our academy office. Visit us during office hours (Monday–Friday, 8AM–5PM, Saturday 9AM–1PM) to collect your form. Completed forms must be returned with required documents and proof of payment.",
+        "category": "Registration & Enrollment",
+        "popular": true,
+        "views": 342
+    },
+    {
+        "id": "2",
+        "question": "What age groups do you accept?",
+        "answer": "We welcome athletes in three age tiers: Tier 1 (Ages 4–9), Tier 2 (Ages 10–15), and Tier 3 (Ages 16–21). Each tier has tailored programs and coaching suitable for that developmental stage.",
+        "category": "Age Categories & Requirements",
+        "popular": true,
+        "views": 298
+    },
+    {
+        "id": "3",
+        "question": "What are the training fees?",
+        "answer": "Fees vary by sport, age tier, and program type. Please visit our Join Us page for a detailed breakdown of fees by tier. Payment can be made via Mobile Money, Bank Transfer, or Cash at our office. We do not accept online payments at this time.",
+        "category": "Payment & Fees",
+        "popular": true,
+        "views": 265
+    },
+    {
+        "id": "4",
+        "question": "Can I pay training fees online?",
+        "answer": "We currently do not accept online payments. Payments must be made via Mobile Money (details on our Join Us page), Bank Transfer, or Cash delivered directly to our office. Payment plans can be discussed with our admin team.",
+        "category": "Payment & Fees",
+        "popular": true,
+        "views": 201
+    },
+    {
+        "id": "5",
+        "question": "What sports do you offer?",
+        "answer": "We currently offer 11 sports: Soccer, Netball, Volleyball, Swimming, Tennis/Table Tennis, Gymnastics, Futsal, Athletics, Basketball, Rugby Sevens, and Dancing. We are constantly expanding our sports offering.",
+        "category": "Sports & Activities",
+        "popular": true,
+        "views": 189
+    },
+    {
+        "id": "6",
+        "question": "What programs are available?",
+        "answer": "We offer 5 program types: Weekend Programs (Saturday and Sunday training), In School Programs (weekday training), Holiday Programs (during school breaks), Camps (intensive short-term camps), and Sports Trips (travel and training opportunities). All 11 sports are available in all program types.",
+        "category": "Programs & Training",
+        "popular": false,
+        "views": 145
+    },
+    {
+        "id": "7",
+        "question": "Are the coaches qualified?",
+        "answer": "Yes! All our coaches hold recognized national and international coaching certifications relevant to their sport. Our coaching staff includes UEFA-licensed soccer coaches, FIVB volleyball coaches, FINA-certified swimming coaches, and more. See our Staff page for individual coach profiles.",
+        "category": "Coaches & Staff",
+        "popular": false,
+        "views": 132
+    },
+    {
+        "id": "8",
+        "question": "What safety measures are in place?",
+        "answer": "Safety is our top priority. We have a certified sports physiotherapist on staff, first aid-certified coaches for every session, mandatory warm-up and cooldown protocols, age-appropriate training intensity, and proper protective equipment requirements for each sport.",
+        "category": "Safety & Health",
+        "popular": false,
+        "views": 98
+    },
+    {
+        "id": "9",
+        "question": "What equipment does my child need to bring?",
+        "answer": "Equipment requirements vary by sport. Visit our Sports Activities page for a full equipment list for each sport. Kits (jerseys, shorts, socks) can be purchased directly from our office. Some basic equipment is provided during training sessions.",
+        "category": "Facilities & Equipment",
+        "popular": false,
+        "views": 87
+    },
+    {
+        "id": "10",
+        "question": "How can I track my child's progress?",
+        "answer": "Parents and coaches can log into our secure portal to view player profiles, training progress, and session attendance. Login credentials are provided upon enrollment. For detailed feedback, we encourage parents to speak directly with coaches at scheduled parent-coach meetings.",
+        "category": "Policies & Rules",
+        "popular": false,
+        "views": 76
+    }
+]
